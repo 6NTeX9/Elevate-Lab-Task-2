@@ -32,7 +32,7 @@ This app helps you stay organized, track your tasks, and manage your day with ea
 
 ## 🌐 Live Demo
 Check out the project live here:  
-👉 [Live Demo Link](https://your-username.github.io/your-repo-name/)
+👉 [[Live Demo Link: https://6ntex9.github.io/Elevate-Lab-Task-2/
 
 ---
 
